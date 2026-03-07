@@ -1,6 +1,6 @@
 ## Hello! I'm Dede Al Fandi. Welcome to my profile👋
 
-![Dede Al Fandi](img/banner-1.png)
+![Dede Al Fandi](img/banner-2.png)
 
 
 
@@ -10,8 +10,7 @@
 
 ##### Find me on social media
 
-![https://instagram.com/allfndyy](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white")
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/allfndyy)
 
 ## 🎮
 
